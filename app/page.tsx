@@ -35,7 +35,7 @@ function App() {
             body: `username=${name}&password=${pass}`,
           })
             .then((res) => res.json())
-            .then((data) => setMsg(JSON.stringify(data)));
+            .then((data) => console.log(JSON.stringify(data)));
         }}
       >
         Log in
