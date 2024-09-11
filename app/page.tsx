@@ -50,6 +50,7 @@ function App() {
       </div>
       <p className="text-xs text-black ml-2 mt-6">
         Bacefook will be uses for some activities later
+        No niggers allowed like Darren Hill
       </p>
     </div>
   );
