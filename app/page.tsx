@@ -48,8 +48,10 @@ function App() {
         </a>
       </div>
       <p className="text-xs text-black ml-2 mt-6">
-        Bacefook will be uses for some activities later
-        No niggers allowed like Darren Hill
+        Bacefook will be used for some activities later such as planning.
+      </p>
+      <p className="text-2xl text-black ml-2 mt-8"></p>
+        No NIGGERS ALLOWED like Darren Hill. 
       </p>
     </div>
   );
